@@ -1,7 +1,7 @@
 /*
  * =====================================================================================
  *
- * Filename:  sales-nav-expand-descriptions.js
+ * Filename:  sn-expand-descriptions.js
  *
  * Description:  Finds and clicks all the "...see more" buttons within the "About"
  * section of company profiles on a LinkedIn Sales Navigator search
